@@ -1,0 +1,57 @@
+# Dynasty (40)
+
+# Holding (18)
+2 Akodo Dojo
+2 Bookkeeper
+2 Bountiful Fields
+3 Cloth Market
+1 Counting House
+2 Heavy Infantry Dojo
+3 Stables
+3 Voice of Experience
+
+# Personality (22)
+2 Iuchi Chiwa
+2 Iuchi Honma
+2 Karyuudo
+1 Moto Alagh
+1 Moto Naleesh, the Living Goddess - exp
+3 Moto Okano
+1 Shinjo Ajasu, Topaz Champion
+3 Shinjo Okiau
+3 Utaku Hyo-Yeon
+3 Utaku Izimi
+1 Utaku Saiken
+
+# Fate (40)
+
+# Follower (14)
+3 Cavalry Escort
+1 Chagatai's Legion
+3 Heavy Cavalry
+3 Light Cavalry
+3 Medium Cavalry
+1 Samurai Lancers
+
+# Item (3)
+1 Ancestral Armor of the Unicorn Clan - exp
+1 Bo of Ritual Blessings
+1 Sohei's Ono
+
+# Ring (3)
+1 Ring of Air
+1 Ring of the Void
+1 Ring of Water
+
+# Strategy (20)
+3 Advance Warning
+3 Back to the Front
+3 Contentious Terrain
+1 Discovering the Shakuhachi of Air
+2 Incapacitated
+1 Journey's End
+1 Proper Equipment
+1 Relentless
+2 Sudden Movement
+1 Tonfajutsu
+2 Versatile Army
