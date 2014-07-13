@@ -1,0 +1,53 @@
+# Dynasty (36)
+
+# Holding (18)
+2 Bookkeeper
+3 Cloth Market
+3 Family Dojo
+3 Jade Pearl Inn
+3 Nexus of Lies
+1 Oracle of the Void - exp
+3 Stables
+
+# Personality (18)
+2 Iuchi Chiwa
+1 Moto Naleesh, the Living Goddess - exp
+3 Moto Okano
+3 Ogre Bushi
+3 Shinjo Sujikaro
+1 Utaku Saiken
+3 Utaku Sakiko
+3 Utaku Sang-Ju
+
+1 Shinjo Okiau
+1 Shinjo Kinto - exp
+1 Shinjo Tselu - exp 2
+
+# Fate (40)
+
+# Follower (12)
+3 Cavalry Escort
+1 Chagatai's Legion
+3 Heavy Cavalry
+3 Light Cavalry
+2 Spearmen Cavalry
+
+# Item (1)
+1 Ancestral Armor of the Unicorn Clan - exp
+
+# Ring (2)
+1 Ring of Air
+1 Ring of Water
+
+# Strategy (25)
+2 Allied Efforts
+2 Back to the Front
+2 Concealed Reserves
+2 Deliberations
+2 Expensive Achievement
+2 Fall Back!
+2 Incapacitated
+2 My Lord's Favor
+3 Outnumbered
+3 Versatile Army
+3 Contentious Terrain
