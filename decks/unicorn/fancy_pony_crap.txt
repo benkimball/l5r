@@ -21,7 +21,7 @@
 
 1 Shinjo Okiau
 1 Shinjo Kinto - exp
-1 Shinjo Tselu - exp 2
+1 Shinjo Tselu - exp2
 
 # Fate (40)
 
