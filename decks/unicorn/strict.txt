@@ -1,37 +1,42 @@
-# Dynasty
+# Dynasty (42)
 
-# Holding
-3 Akodo Dojo
+# Event (1)
+1 Glimpse of the Unicorn
+
+# Holding (17)
+2 Akodo Dojo
 1 Bookkeeper
 2 Bountiful Fields
 3 Cloth Market
 1 Counting House
+2 Famous Bazaar
 1 Heavy Infantry Dojo
 3 Stables
 2 Voice of Experience
-1 Wandering Caravan
 
-# Personality
+# Personality (24)
 2 Iuchi Chiwa
 3 Iuchi Honma
 2 Myuken
 1 Moto Alagh
 1 Moto Naleesh, the Living Goddess - exp
 3 Moto Okano
+2 Myuken
 1 Shinjo Ajasu, Topaz Champion
 3 Shinjo Okiau
 2 Utaku Hyo-Yeon
 3 Utaku Izimi
 1 Utaku Saiken
 
-# Fate (40)
+# Fate (41)
 
-# Follower (14)
-1 Chagatai's Legion
-1 Mobile Troops
+# Follower (16)
+2 Assault Unit
 3 Cavalry Escort
+1 Chagatai's Legion
 3 Heavy Cavalry
 3 Light Cavalry
+1 Mobile Troops
 3 Samurai Lancers
 
 # Item (2)
@@ -42,7 +47,7 @@
 1 Ring of the Void
 1 Ring of Water
 
-# Spells (4)
+# Spells (2)
 2 Suitengu's Embrace
 
 # Strategy (19)
@@ -52,8 +57,8 @@
 1 Discovering the Shakuhachi of Air
 2 Incapacitated
 1 Journey's End
+1 My Lord's Favor
 2 Proper Equipment
 1 Relentless
 1 Sudden Movement
 2 Versatile Army
-1 My Lord's Favor
