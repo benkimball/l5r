@@ -1,0 +1,27 @@
+1 The Exquisite Palace of the Crane
+1 Imperial Favor
+
+# Dynasty
+
+# Personalities (21)
+3 Tsuruchi Gosho
+2 Daidoji Ryushi
+2 Daidoji Sutebo
+3 Daidoji Tametaka
+3 Daidoji Tanshi
+1 Daidoji Ujirou
+1 Doji Makato, the Smiling Blade - exp
+3 Sasada
+3 ?
+
+# Events (1)
+1 Alliance
+
+# Holdings (18)
+3 Farmer's Market
+3 Vast Paddy Fields
+2 Bookkeeper
+3 Bountiful Fields
+1 Counting House
+3 Marketplace
+3 Voice of Experience
