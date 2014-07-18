@@ -10,23 +10,36 @@ class HtmlParserIncluded < HTTParty::Parser
   end
 end
 
-
-class Card
-  def initialize(html)
-    @html = html
+module CardParser
+  def self.included(base)
+    base.extend ClassMethods
   end
 
-  def icon
-    @icon ||= begin
-      img = @html.search('tr:first-child td:first-child img').first
-      img ? "/#{img[src]}" : nil
+  module ClassMethods
+    def get_icon(html)
+      img = html.search('tr:first-child td:first-child img').first
+      img ? "/#{img['src']}" : nil
+    end
+
+    def get_title(html)
+      node = html.search('td.greenhead span.l5rfont').first
+      node ? node.content : nil
     end
   end
+end
 
-  def title
-    @title ||= begin
-      node = @html.search('td.greenhead span.l5rfont').first
-      node ? node.content : nil
+
+class Card
+  include CardParser
+
+  attr_accessor :icon, :title
+
+  class << self
+    def from_card_search(html)
+      Card.new.tap do |card|
+        card.icon = get_icon(html)
+        card.title = get_title(html)
+      end
     end
   end
 
@@ -62,7 +75,7 @@ class CardSearch
 
     def parse_response(response)
       response.search('table.listing .cardline').map do |html|
-        Card.new(html)
+        Card.from_card_search(html)
       end
     end
   end
