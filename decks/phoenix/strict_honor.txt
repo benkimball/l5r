@@ -1,0 +1,49 @@
+2 Merchant Atoll
+3 Kabuki Theater Troupe
+3 Silver Mine
+1 Counting House
+3 Temple of Serenity
+3 Alchemy Lab
+3 Carpenter Shrine
+2 Shiba Michiki
+2 Shiba Tsumiki, the Blind Phoenix - exp5
+1 Asako Sadaki
+1 Isawa Shunryu, the Infinite Eye
+3 Isawa Kido
+3 Agasha Kyokuta
+1 Isawa Amihiko
+3 Isawa Kamiko
+3 Isawa Kosea
+3 Isawa Kaisei
+3 Shiba Eraki
+3 Coastal Lane
+
+3 Words of Consecration
+1 Interrupt the Void's Flow
+2 Seeking the Way
+2 Ward of Air
+2 Servitors of Stone
+3 In Awe of the Earth
+3 Deafening Thunder
+3 Suitengu's Embrace
+1 Ancestral Armor of the Phoenix Clan
+3 Blessed Sword
+1 Ring of Air
+1 Ring of Earth
+3 Sparrow Clan Aide
+1 Discovering the Anvil of the Earth
+2 Way of the Phoenix
+2 Come One at a Time
+2 Fall Back!
+1 The Turtle's Shell
+3 Block Supply Lines
+
++Deny the False Form (counter-duel, 1g move-home)
++Final Sacrifice (redirect to yojimbo)
++Inspired Devotion (chi-sized force bonus)
++Treachery and Deceit (7F send-home)
++Wheels within Wheels (kill own dude for 2 honor, rehonor)
+
++Discovering the Daisho of Water (straighten, take another action)
+
+-1 Today We Die

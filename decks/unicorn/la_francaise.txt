@@ -1,0 +1,56 @@
+# Pre-Game (1)
+
+# Stronghold (1)
+1 The Golden Plains of the Unicorn
+
+# Dynasty (40)
+
+# Holding (17)
+2 Bookkeeper
+3 Cloth Market
+3 Famous Bazaar
+3 Jade Pearl Inn
+3 Stables
+2 Voice of Experience
+1 Yukihime's Hot Springs
+
+# Personality (23)
+2 Iuchi Chiwa
+1 Iuchi Karasu - inexp
+1 Moto Ming-Gwok - exp
+1 Moto Naleesh, the Living Goddess - exp
+3 Moto Okano
+1 Shinjo Kinto - exp2
+3 Shinjo Okiau
+1 Shinjo Tselu - exp
+2 Shinjo Yoshie
+1 The Dark Naga - exp
+1 The Shakash - exp
+3 Utaku Hyo-Yeon
+3 Utaku Sakiko
+
+# Fate (40)
+
+# Follower (8)
+2 Chagatai's Legion
+3 Frontier Farmer
+3 Spitting Llama
+
+# Ring (2)
+1 Ring of Air
+1 Ring of Earth
+
+# Strategy (30)
+3 Advance Warning
+3 Blanketed Forest
+2 Cavalry Escort
+1 Creating Order
+3 Deliberations
+3 Discretionary Valor
+3 Entrenched Position
+1 Expensive Achievement
+2 Holding Cells
+2 New Cavalry Tactics
+2 Unholy Strike
+2 Unsettling Gathering
+3 Versatile Army

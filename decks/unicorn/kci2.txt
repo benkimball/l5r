@@ -1,64 +1,58 @@
-# Dynasty (41)
+# Dynasty (40)
 
 # Event (1)
-1 Dark Audience
+1 Frost Dragon Festival
 
 # Holding (19)
 1 Bamboo Harvesters - exp
-1 Bookkeeper
 3 Cloth Market
-2 Famous Bazaar
-3 Jade Pearl Inn
+3 Famous Bazaar
+3 Farmer's Market
+2 Fudoist Temple
 1 Oracle of the Void - exp
 3 Stables
-1 Temple of Tengen
-2 Voice of Experience
-2 Yukihime's Hot Springs
+3 Voice of Experience
 
-# Personality (21)
+# Personality (20)
 2 Iuchi Chiwa
 1 Iuchi Karasu - inexp
 1 Iuchi Wattu
-1 Kaiu Nakagawa
 1 Moto Alagh
 1 Moto Ming-Gwok - exp
 3 Moto Okano
 1 Shinjo Kinto - exp2
-3 Shinjo Okiau
 1 Shinjo Tselu - exp
+3 Utaku Hyo-Yeon
 3 Utaku Sakiko
 3 Utaku Sang-Ju
 
 # Fate (40)
 
 # Follower (3)
-2 Cavalry Escort
-1 Spitting Llama
+3 Cavalry Escort
 
-# Item (7)
+# Item (9)
 1 Ancestral Armor of the Unicorn Clan - exp
 1 Bo of Ritual Blessings
-1 Kaiu Axe
 2 Ominous Armor
-1 Storm-Forged Blade
-1 Utaku's Destiny
+3 Tested Blade
+2 Utaku's Destiny
 
 # Ring (2)
 1 Ring of Air
 1 Ring of Earth
 
-# Strategy (28)
+# Strategy (26)
+1 A Game of Dice
 3 Advance Warning
+3 Breaking the Rhythm
 2 Contentious Terrain
 2 Coward!
 1 Creating Order
-1 Deliberations
-3 Discretionary Valor
+2 Deliberations
 3 Expensive Achievement
-1 New Cavalry Tactics
 2 Sudden Movement
-2 The Crystal Tears
+1 The Crystal Tears
 2 The False Route
-2 Thoughtless Sacrifice
 2 Unsettling Gathering
 2 Versatile Army
