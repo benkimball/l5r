@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Utilities for the Legend of the Five Rings CCG.}
   spec.description   = %q{Command line interface to AEG's Oracle of the Void web site. Requires user account at imperialassembly.com.}
   spec.homepage      = ""
-  spec.license       = "CC0"
+  spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
@@ -20,4 +20,9 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
+
+  spec.add_runtime_dependency "dotenv", ">= 0.11.1"
+  spec.add_runtime_dependency "nokogiri", ">= 1.6.2.1"
+  spec.add_runtime_dependency "httparty", ">= 0.13.1"
+  spec.add_runtime_dependency "highline", ">= 1.6.21"
 end
