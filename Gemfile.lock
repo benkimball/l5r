@@ -1,3 +1,12 @@
+PATH
+  remote: .
+  specs:
+    l5r (0.1.0)
+      dotenv (>= 0.11.1)
+      highline (>= 1.6.21)
+      httparty (>= 0.13.1)
+      nokogiri (>= 1.6.2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -13,12 +22,12 @@ GEM
     multi_xml (0.5.5)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
+    rake (10.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  dotenv
-  highline
-  httparty
-  nokogiri
+  bundler (~> 1.6)
+  l5r!
+  rake

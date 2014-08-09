@@ -1,19 +1,6 @@
-#!/usr/bin/env ruby
-
-require 'highline/import'
-
-loop do
-  begin
-    cmd = ask "<%= color('L5R> ', :green) %>"
-    case cmd
-    when /l (.*+)/
-      say $1
-    when 'exit', 'quit'
-      say "Goodbye"
-      exit
-    end
-  rescue Interrupt
-    say "\nGoodbye"
-    exit
-  end
-end
+require 'l5r/version'
+require 'l5r/html_parser_included'
+require 'l5r/card_parser'
+require 'l5r/card'
+require 'l5r/card_search'
+require 'l5r/oracle'
