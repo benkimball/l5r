@@ -1,3 +1,5 @@
+require 'httparty'
+require 'dotenv'
 Dotenv.load
 
 module L5r

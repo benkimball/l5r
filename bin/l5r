@@ -4,12 +4,17 @@ require 'l5r'
 require 'highline/import'
 
 o = L5r::Oracle.new
+
 loop do
   begin
     cmd = ask "<%= color('L5R> ', :green) %>"
     case cmd
     when /l (.*+)/
-      say $1
+      result = o.card_search $1
+      say "#{result.length} result#{'s' if result.length != 1} found"
+      result.each do |card|
+        say card
+      end
     when 'exit', 'quit'
       say "Goodbye"
       exit

@@ -1,3 +1,6 @@
+require 'httparty'
+require 'nokogiri'
+
 module L5r
 
   class HtmlParserIncluded < HTTParty::Parser

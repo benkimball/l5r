@@ -17,6 +17,7 @@ module L5r
     def to_s
       "Card: #{title}"
     end
+    alias_method :to_str, :to_s
   end
 
 end
