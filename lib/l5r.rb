@@ -1,5 +1,6 @@
 require 'l5r/version'
 require 'l5r/html_parser_included'
+require 'l5r/color_scheme'
 require 'l5r/card_parser'
 require 'l5r/card'
 require 'l5r/card_search'

@@ -2,18 +2,28 @@
 
 require 'l5r'
 require 'highline/import'
+HighLine.colorize_strings
+
+HighLine.color_scheme = L5r::ColorScheme.build
 
 o = L5r::Oracle.new
 
 loop do
   begin
-    cmd = ask "<%= color('L5R> ', :green) %>"
+    cmd = ask('L5R> '.color(:unicorn))
     case cmd
     when /l (.*+)/
       result = o.card_search $1
       say "#{result.length} result#{'s' if result.length != 1} found"
       result.each do |card|
         say card
+      end
+    when /f (\d+)/
+      card = o.card_fetch $1
+      if card
+        say card
+      else
+        say "No match"
       end
     when 'exit', 'quit'
       say "Goodbye"

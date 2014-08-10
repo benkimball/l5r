@@ -18,7 +18,25 @@ Or install it yourself as:
 
 ## Usage
 
-Run the l5r executable. Try `l Oracle of the Void`. Then `exit`.
+Largely still TODO. Here are a couple things I'd like to be able to do:
+
+    L5R> lookup Oracle of the Void
+    Searching...
+      1847. (Holding) Dark Oracle of the Void (Experienced)
+      5773. (Holding) Oracle of the Void
+     10408. (Holding) Oracle of the Void (Experienced)
+    L5R> lookup #10408
+    Cache hit
+      #10408 Oracle of the Void
+      Promo Holding, Promotional-Emperor
+      Legal: Emperor, Ivory
+      Void, Oracle, Retainer, Experienced, Unique
+      GC 6
+      This card cannot be destroyed.
+      Limited, [b]: The next two cards in provinces you refill (this turn) may
+      be refilled face-up.
+      Limited, [b]: Draw a card.
+      "I see all. There is nothing beyond my sight."
 
 ## Contributing
 

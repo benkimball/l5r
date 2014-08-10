@@ -38,6 +38,14 @@ module L5r
       home.include? "You are not logged in"
     end
 
+    def card_fetch(card_id)
+      response = self.class.post('/docard', :body => {:cardid => card_id})
+      table = response.search('table.cardinfo').first
+      if table
+        Card.from_card_fetch(table)
+      end
+    end
+
     def card_search(opts)
       query = CardSearch.to_post_args(opts)
       response = self.class.post('/dosearch', :body => query)

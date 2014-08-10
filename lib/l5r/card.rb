@@ -12,6 +12,16 @@ module L5r
           card.title = get_title(html)
         end
       end
+
+      def from_card_fetch(html)
+        Card.new.tap do |card|
+          img = html.search('table.cardinfo>tbody>tr:nth-child(2) td:first-child img').first
+          card.icon = img ? "/#{img['src']}" : nil
+
+          node = html.search('tr.greenhead td').first
+          card.title = node ? node.content : nil
+        end
+      end
     end
 
     def to_s
