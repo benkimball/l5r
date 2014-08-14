@@ -1,7 +1,5 @@
-# Dynasty (46)
-
-# Holding (21)
-3 Alchemy Lab
+1 Alchemy Lab
+2 Famous Bazaar
 3 Carpenter Shrine
 3 Coastal Lane
 1 Counting House
@@ -10,48 +8,35 @@
 3 Silver Mine
 3 Temple of Serenity
 
-# Personality (25)
+3 Agasha Beiru
 3 Agasha Kyokuta
 1 Asako Sadaki
 1 Isawa Amihiko
 3 Isawa Kaisei
 3 Isawa Kamiko
 3 Isawa Kido
-3 Isawa Kosea
 1 Isawa Shunryu, the Infinite Eye
 3 Shiba Eraki
 2 Shiba Michiki
 2 Shiba Tsukimi, the Blind Phoenix - exp5
 
-# Fate (40)
-
-# Follower (3)
 3 Sparrow Clan Aide
 
-# Item (7)
 1 Ancestral Armor of the Phoenix Clan - exp
 3 Blessed Sword
 3 Official Sanction
 
-# Ring (2)
 1 Ring of Air
 1 Ring of Earth
 
-# Spell (17)
-3 Deafening Thunder
+3 Shielded by Tempest
 3 In Awe of the Earth
-2 Seeking the Way
+3 Seeking the Way
 3 Suitengu's Embrace
-2 Ward of Air
+1 Hidden Machinations
 3 Words of Consecration
-
-# Strategy (11)
 3 Block Supply Lines
-2 Fall Back!
+2 Back to the Front
 3 Inexplicable Challenge
 2 The Turtle's Shell
-2 Way of the Phoenix
-
-+Agasha Beiru (earth shug, recruits fortifications)
-+Hidden Machinations (kata, filter fate)
-+Colonial Conscripts (kill a farm, 2F, -3F penalty)
+2 Wary Peace
