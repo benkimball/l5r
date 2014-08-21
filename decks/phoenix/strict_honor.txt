@@ -29,14 +29,16 @@
 1 Ring of Air
 1 Ring of Earth
 
-3 Shielded by Tempest
-3 In Awe of the Earth
-3 Seeking the Way
-3 Suitengu's Embrace
-1 Hidden Machinations
-3 Words of Consecration
+1 Arrival of the Ivory Champion
+1 Banish All Shadows
 3 Block Supply Lines
-2 Back to the Front
-3 Inexplicable Challenge
+1 Bonds of Service
+3 Deafening Thunder
+2 Fall Back!
+3 In Awe of the Earth
+2 Seeking the Way
+3 Suitengu's Embrace
 2 The Turtle's Shell
+2 Ward of Air
 2 Wary Peace
+3 Words of Consecration

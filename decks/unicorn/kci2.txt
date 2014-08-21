@@ -1,22 +1,20 @@
 # Dynasty (40)
 
-# Event (1)
-1 Frost Dragon Festival
-
 # Holding (19)
 1 Bamboo Harvesters - exp
 3 Cloth Market
 3 Famous Bazaar
 3 Farmer's Market
 2 Fudoist Temple
-1 Oracle of the Void - exp
+1 Oracle of the Void - exp (missing)
 3 Stables
 3 Voice of Experience
 
-# Personality (20)
+# Personality (21)
 2 Iuchi Chiwa
 1 Iuchi Karasu - inexp
-1 Iuchi Wattu
+1 Moto Naleesh - exp
+1 Tsiang, the Benevolent
 1 Moto Alagh
 1 Moto Ming-Gwok - exp
 3 Moto Okano
