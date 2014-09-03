@@ -8,7 +8,7 @@
 1 Border Keep - exp2
 
 # Sensei (1)
-1 Kitsu Sensei
+1 Yoritomo Sensei
 
 # Wind (1)
 1 Black Heart of the Empire
@@ -18,8 +18,7 @@
 # Celestial (1)
 1 Fu Leng's Guidance
 
-# Event (2)
-1 Inari's Festival
+# Event (1)
 1 The Return of Fu Leng
 
 # Holding (43)
@@ -67,30 +66,32 @@
 1 West Wall of Otosan Uchi - exp
 1 Wretches
 
-# Personality (53)
+# Personality (54)
 1 Akuma no Oni - exp2
 1 Arugai no Oni
 1 Chuda Hikano
 1 Chuda Hitaka - exp
-1 Chuda Kiuchi
 1 Chutoburo
 1 Daigotsu Arima
-1 Daigotsu Fumiaki - exp
+1 Daigotsu Rekai - exp4
+1 Daigotsu Yajinden - exp
 1 Daigotsu Yuhmi - exp
 1 Daku no Oni
 1 Datsue-ba
 1 Ekichu no Oni
 1 Fu Leng
 1 Furu no Oni
+1 Gagoze no Oni
 1 Gakku - exp
 1 Gozaru no Oni
 1 Hasaiki no Oni
-1 Hida Yamadera
 1 Hohiro
 1 Iuchiban
+1 Jama Suru
 1 Ki no Oni
 1 Kitsune Gohei
 1 Kokujin - exp2
+1 Kokujin Akae
 1 Kusatte Iru
 1 Kyofu - exp
 1 Kyoso no Oni - exp2
@@ -119,7 +120,6 @@
 1 Utogu no Oni
 1 Uzaki no Oni
 1 Yojireru no Oni
-1 Yokubo
 1 Yuhmi no Oni
 
 # Region (1)
