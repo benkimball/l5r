@@ -1,0 +1,126 @@
+# Pre-Game (5)
+
+# Stronghold (1)
+1 The Imperial Palace of Fu Leng
+
+# Holding (2)
+1 Bamboo Harvesters - exp2
+1 Border Keep - exp2
+
+# Sensei (1)
+1 Kitsu Sensei
+
+# Wind (1)
+1 Black Heart of the Empire
+
+# Dynasty (100)
+
+# Celestial (1)
+1 Fu Leng's Guidance
+
+# Event (2)
+1 Inari's Festival
+1 The Return of Fu Leng
+
+# Holding (43)
+1 Ageless Shrine
+1 Anvil of Despair - exp
+1 Bleeding Grounds
+1 Breeding Grounds
+1 Brilliant Artisan
+1 Burial Mound
+1 Clutch of Eggs
+1 Corrupt Geisha House
+1 Corrupted Dojo (WoC)
+1 Corrupted Iron Mine
+1 Corrupted Silver Mine
+1 Crystal Mine
+1 Daigotsu Dojo
+1 Empty Crevasse
+1 Festering Pit of Fu Leng
+1 Forgotten Battleground
+1 Fu Leng's Tomb - exp
+1 Fudoist Temple
+1 Glassworks
+1 House of Disgrace
+1 House of the Fallen Blossom
+1 Jade Mine
+1 Minting House
+1 Obsidian Mine
+1 Oni Lair
+1 Oracle of the Void - exp
+1 Pearl Cache
+1 Pillar of Flesh
+1 Productive Mine
+1 Prosperous Village
+1 Secluded Waystation
+1 Shackled Oni
+1 Shadowlands Bastion
+1 Shokansuru
+1 Shrine of Fu Leng
+1 Shrine of Osano-Wo
+1 Spider Cultist
+1 Suana Dojo
+1 Traveling Market
+1 Treacherous Growth
+1 Voice of Experience
+1 West Wall of Otosan Uchi - exp
+1 Wretches
+
+# Personality (53)
+1 Akuma no Oni - exp2
+1 Arugai no Oni
+1 Chuda Hikano
+1 Chuda Hitaka - exp
+1 Chuda Kiuchi
+1 Chutoburo
+1 Daigotsu Arima
+1 Daigotsu Fumiaki - exp
+1 Daigotsu Yuhmi - exp
+1 Daku no Oni
+1 Datsue-ba
+1 Ekichu no Oni
+1 Fu Leng
+1 Furu no Oni
+1 Gakku - exp
+1 Gozaru no Oni
+1 Hasaiki no Oni
+1 Hida Yamadera
+1 Hohiro
+1 Iuchiban
+1 Ki no Oni
+1 Kitsune Gohei
+1 Kokujin - exp2
+1 Kusatte Iru
+1 Kyofu - exp
+1 Kyoso no Oni - exp2
+1 Kyoso no Oni - exp3
+1 Moto Tsume - exp3
+1 Muchitsujo
+1 Mumoku no Oni
+1 Mutsuhito
+1 Niiro no Oni
+1 Nikushimi
+1 Raido no Oni
+1 Sentei no Oni
+1 Sentei no Oni - exp
+1 Shadow Dragon - exp
+1 Shadow Dragon - exp2
+1 Shikage no Oni
+1 Suiteiru no Oni
+1 Suiteiru no Oni - exp
+1 Tasu no Oni
+1 The First Oni
+1 The First Oni - inexp
+1 The Great Death
+1 The Maw
+1 Tsudo no Oni
+1 Umi-Bozu
+1 Utogu no Oni
+1 Uzaki no Oni
+1 Yojireru no Oni
+1 Yokubo
+1 Yuhmi no Oni
+
+# Region (1)
+1 Kuni Wastelands
