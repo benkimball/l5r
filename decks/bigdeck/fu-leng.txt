@@ -124,3 +124,113 @@
 
 # Region (1)
 1 Kuni Wastelands
+
+# Fate (100)
+
+# Follower (20)
+1 Bloodstained Peasants
+1 Bones of the Fallen
+1 Byoki no Oni
+1 Cavalry Escort
+1 Colonial Conscripts
+1 Daifuke
+1 Dark Eyes on the Wall
+1 Fudoshi
+1 Haunted
+1 Kirei
+1 Kuruma Seiro
+1 Munemitsu no Oni
+1 Obsidian Riders
+1 Ogre Elite
+1 Plague of Flesh
+1 Sai no Oni
+1 Spawn of Vritra
+1 Tsuno Ravagers
+1 Village Raiders
+1 Yajuu no Oni
+
+# Item (18)
+1 Akodo's No-Dachi
+1 Anvil of Earth
+1 Awakened Blade
+1 Balanced Yari
+1 Black Pearl - exp
+1 Blade of Awe
+1 Blade of Champions
+1 Blade of Perfection
+1 Blades of the Black Dragon
+1 Blood of the Preserver - exp
+1 Fu Leng's Sword
+1 Kitsuki Kaagi's Journal
+1 Nokemono
+1 Paneki's Mask
+1 Shard of the Great Death's Bones
+1 Spider Netsuke
+1 The Obsidian Armor
+1 Yakamo's Claw
+
+# Ring (5)
+1 False Ring of Air
+1 Ring of Air
+1 Ring of Earth
+1 Ring of the Void
+1 The Akasha
+
+# Strategy (57)
+1 A Game of Dice
+1 Aftershock
+1 Allegiance to the Dark Lord
+1 Arriving at the Imperial Gates
+1 Aura of Malice
+1 Bloodspeaker Ambush
+1 Burn the Village
+1 Charge Into Danger
+1 Claw and Shell
+1 Consuming Weakness
+1 Corrupted Ground
+1 Creating Order
+1 Cursed Gift
+1 Daigotsu's Discipline
+1 Dark Bargains
+1 Dark Lord's Favor
+1 Darkness beyond Darkness
+1 Darkness Feeds...
+1 Dawn of the Dead
+1 Deadly Ground
+1 Death after Life
+1 Deep Roots
+1 Doomed Undertaking
+1 Drawing Out the Darkness
+1 Everpresent Fear
+1 Evil Portents
+1 Fall on Your Knees
+1 Flanked by Nightmares
+1 For the Empire
+1 Gates of Jigoku
+1 Guerrilla Tactics
+1 Impossible Force
+1 Improper Papers
+1 Kami Unleashed
+1 Kuon's Legacy
+1 Lessons of Pain
+1 Nakanu Technique
+1 Night Battle
+1 Obsidian
+1 Ogre Savagery
+1 Ominous Portents
+1 Only Actions Speak
+1 Power of Strength
+1 Rampage
+1 Seeping Darkness
+1 Serpent Tunnels
+1 Sinister Rebirth
+1 Strength of Darkness
+1 Strength of the Shadowlands
+1 The Egg of P'an Ku
+1 The Enemy You Deserve
+1 The Saga of Taki
+1 Toturi's Defeat
+1 Unclean Sacrifice
+1 Undetectable Enemy
+1 Unsettling Gathering
+1 Wanton Destruction
