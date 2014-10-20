@@ -1,0 +1,51 @@
+# Unicorn Blitz, San Antonio 2014 tournament
+# 2-2
+
+# Events
+3 A Great Victory
+3 Alliance
+1 Dark Audience
+1 Frost Dragon Festival
+2 Glimpse Of The Unicorn
+1 Journey's End Siege
+1 The Samurai Caste Divides
+
+# Holdings
+3 General's Hatamoto
+
+# Personalities
+3 Dainiko
+3 Hida Saiyuki
+3 Kaiu Nakagawa
+3 Kataoka
+3 Myuken
+3 Shinjo Okiau
+3 Utaku Sang-ju
+1 Zansho Experienced
+3 Zenathaar
+
+# Followers
+3 Baraunghar Scouts
+2 Colonial Conscripts
+1 Light Cavalry
+
+# Items
+1 Kaiu Axe
+3 Storm-forged Blade
+
+# Rings
+1 Ring of Air
+1 Ring of Earth
+1 Ring of Water
+
+# Strategies
+1 Creating Order
+3 Expensive Achievement
+3 Focus
+3 Imminent Victory
+3 Incapacitated
+3 Inspired Devotion
+3 Lost Caravan
+3 Never Without A Weapon
+2 Progressive
+3 The False Route
